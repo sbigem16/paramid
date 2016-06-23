@@ -1,0 +1,703 @@
+ <!-- FlatFy Theme - Andrea Galanti /-->
+ 
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="SB-iGEM 2016 ">
+    <meta name="author" content="2016 Stanford-Brown iGEM">
+
+    <title>SB-iGEM 2016</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+ 
+    <!-- Custom Google Web Font -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Arvo:400,700' rel='stylesheet' type='text/css'>
+	
+    <!-- Custom CSS-->
+    <link href="css/general.css" rel="stylesheet">
+	
+	 <!-- Owl-Carousel -->
+    <link href="css/custom.css" rel="stylesheet">
+	<link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+	<link href="css/animate.css" rel="stylesheet">
+	
+	<!-- Magnific Popup core CSS file -->
+	<link rel="stylesheet" href="css/magnific-popup.css"> 
+	
+	<script src="js/modernizr-2.8.3.min.js"></script>  <!-- Modernizr /-->
+	<!--[if IE 9]>
+		<script src="js/PIE_IE9.js"></script>
+	<![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/PIE_IE678.js"></script>
+	<![endif]-->
+
+	<!--[if lt IE 9]>
+		<script src="js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+
+<body id="home">
+	<!-- Preloader -->
+	<div id="preloader">
+		<div id="status"></div>
+	</div>
+	
+	<!-- FullScreen -->
+    <div class="intro-header">
+		<div class="col-xs-12 text-center abcen1">
+			<h1 class="h1_home wow fadeIn" data-wow-delay="0.4s">BioBalloon</h1>
+			<h3 class="h3_home wow fadeIn" data-wow-delay="0.6s">Flexible Aptamer-Based Biosensing for Resilient Inflatable Constructs</h3>
+			<ul class="list-inline intro-social-buttons">
+				<li><a href="https://twitter.com/dootmrskeltal" class="btn  btn-lg mybutton_cyano wow fadeIn" data-wow-delay="0.8s"><span class="network-name">fabbric</span></a>
+				</li>
+				<br><br>
+				<li id="home" ><a href="intro.html" class="btn  btn-lg mybutton_standard wow swing wow fadeIn" data-wow-delay="1.2s"><span class="network-name">Meet Our Team</span></a>
+				</li>
+			</ul>
+		</div>    
+        <!-- /.container -->
+		<div class="col-xs-12 text-center abcen wow fadeIn">
+			<div class="button_down "> 
+				<a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#mission"> <img class="img_scroll" src="img/icon/circle.png" alt=""> </a>
+			</div>
+		</div>
+    </div>
+	
+	<!-- NavBar-->
+	<nav class="navbar-default" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#home">bioballoon</a>
+			</div>
+
+			<div class="collapse navbar-collapse navbar-right navbar-ex1-collapse">
+				<ul class="nav navbar-nav">
+					<li class="menuItem"><a href="#mission">Mission</a></li>
+					<li class="menuItem"><a href="#projects">Projects</a></li>
+					<li class="menuItem"><a href="#biobricks">BioBricks</a></li>
+					<li class="menuItem"><a href="#practices">Human Practices</a></li>
+					<li class="menuItem"><a href="#team">Team</a></li>
+					<li class="menuItem"><a href="#achievements">Achievements</a></li>
+				</ul>
+			</div>
+		   
+		</div>
+	</nav> 
+	
+	<!-- Mission -->
+	<div id="mission" class="content-section-b" style="border-top:0">
+		<div class="container">
+			<div class="col-md-6 col-md-offset-3 text-center">
+				<h2>Our Mission</h2>
+				<p class="lead" style="margin-top:0">we have a mission and</p>
+				<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> it is good<br><br>
+				
+			</div>
+			
+		
+			
+			
+			
+		</div>
+		
+		
+	</div>
+	
+	
+	<!-- What is -->
+	<div id="projects" class="content-section-b" style="border-top: 0">
+		<div class="container">
+
+			<div class="col-md-8 col-md-offset-2 text-center wrap_title">
+				<h2>What are we making?</h2>
+				<p class="lead" style="margin-top:0">Resilient biomaterials and flexible biosensing</p>
+				
+			</div>
+			
+			<div class="row">
+			
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <a href="projects.html"><img class="rotate" src="img/icon/tweet.svg" alt="Generic placeholder image"></a>
+				  <h3>Collagen & Elastin Membrane</h3>
+				  <p class="lead">We made a bunch of awesome stuff</p>
+
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/picture.svg" alt="Generic placeholder image">
+				   <h3>Aptamers</h3>
+				   <p class="lead">Science is sick my dude</p>
+				   <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/retina.svg" alt="Generic placeholder image">
+				   <h3>Spider Silk</h3>
+					<p class="lead">I'm Ants-In-My-Eyes Johnson!</p>
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+			</div><!-- /.row -->
+				
+			<div class="row tworow">
+			
+				<div class="col-sm-4  wow fadeInDown text-center">
+				  <img class="rotate" src="img/icon/laptop.svg" alt="Generic placeholder image">
+				  <h3>Responsive</h3>
+				  <p class="lead">Charlie will go above and beyond in email responses.</p>
+				 <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/map.svg" alt="Generic placeholder image">
+				   <h3>Google</h3>
+				   <p class="lead">We're located closely enough to their campus to basically be funded by them.</p>
+				   <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+				<div class="col-sm-4 wow fadeInDown text-center">
+				  <img  class="rotate" src="img/icon/browser.svg" alt="Generic placeholder image">
+				   <h3>Better Off Ted</h3>
+				 <p class="lead">Where we learned a lot of our protocol.</p>
+				  <!-- <p><a class="btn btn-embossed btn-primary view" role="button">View Details</a></p> -->
+				</div><!-- /.col-lg-4 -->
+				
+			</div><!-- /.row -->
+		</div>
+	</div>
+	
+	<!-- Use it -->
+    <div id ="biobricks" class="content-section-a">
+
+        <div class="container">
+			
+            <div class="row">
+			
+				<div class="col-sm-6 pull-right wow fadeInRightBig">
+                    <img class="img-responsive " src="img/ipad.png" alt="">
+                </div>
+				
+                <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
+                    <h3 class="section-heading">BioBricks</h3>
+					<div class="sub-title lead3">Our sick balloon will change your life.*</div>
+                    <p class="lead">
+						*First our elastin needs to come in.
+					</p>
+
+					 <p><a class="btn btn-embossed btn-primary" href="#" role="button">Balloon Animation</a> 
+					 <a class="btn btn-embossed btn-info" href="#" role="button">Fund Our Kickstarter</a></p>
+				</div>   
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+
+    <div class="content-section-b"> 
+		
+		<div class="container">
+            <div class="row">
+                <div class="col-sm-6 wow fadeInLeftBig">
+                     <div id="owl-demo-1" class="owl-carousel">
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+						<a href="img/iphone.png" class="image-link">
+							<div class="item">
+								<img  class="img-responsive img-rounded" src="img/iphone.png" alt="">
+							</div>
+						</a>
+					</div>       
+                </div>
+				
+                <div class="col-sm-6 wow fadeInRightBig"  data-animation-delay="200">   
+                    <h3 class="section-heading">Drag Charlie</h3>
+					<div class="sub-title lead3">Scroll through pictures of Charlie in the eighth grade!</div>
+                    <p class="lead">
+						In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret. 
+						Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur, 
+						uam non erat mirum sapientiae lorem cupido
+						patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
+					</p>
+
+					 <p><a class="btn btn-embossed btn-primary" href="#" role="button">View Details</a> 
+					 <a class="btn btn-embossed btn-info" href="#" role="button">Visit Website</a></p>
+				</div>  			
+			</div>
+        </div>
+    </div>
+
+    <div class="content-section-a">
+
+        <div class="container">
+
+             <div class="row">
+			 
+				<div class="col-sm-6 pull-right wow fadeInRightBig">
+                    <img class="img-responsive " src="img/doge.png" alt="">
+                </div>
+			 
+                <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
+                    <h3 class="section-heading">Font Awesome & Glyphicon</h3>
+                    <p class="lead">A special thanks to Death to the Stock Photo for 
+					providing the photographs that you see in this template. 
+					</p>
+					
+					<ul class="descp lead2">
+						<li><i class="glyphicon glyphicon-signal"></i> Reliable and Secure Platform</li>
+						<li><i class="glyphicon glyphicon-refresh"></i> Everything is perfectly orgainized for future</li>
+						<li><i class="glyphicon glyphicon-headphones"></i> Attach large file easily</li>
+					</ul>
+				</div>           
+            </div>
+        </div>
+
+    </div>
+
+	<!-- Screenshot -->
+	<div id="screen" class="content-section-b">
+        <div class="container">
+          <div class="row" >
+			 <div class="col-md-6 col-md-offset-3 text-center wrap_title ">
+				<h2>Human Practices</h2>
+				<p class="lead" style="margin-top:0">A special thanks to Death.</p>
+			 </div>
+		  </div>
+		    <div class="row wow bounceInUp" >
+              <div id="owl-demo" class="owl-carousel">
+				
+				<a href="img/slide/1.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/1.png" alt="Owl Image">
+					</div>
+				</a>
+				
+               <a href="img/slide/2.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/2.png" alt="Owl Image">
+					</div>
+				</a>
+				
+				<a href="img/slide/3.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/3.png" alt="Owl Image">
+					</div>
+				</a>
+				
+				<a href="img/slide/1.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/1.png" alt="Owl Image">
+					</div>
+				</a>
+				
+               <a href="img/slide/2.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/2.png" alt="Owl Image">
+					</div>
+				</a>
+				
+				<a href="img/slide/3.png" class="image-link">
+					<div class="item">
+						<img  class="img-responsive img-rounded" src="img/slide/3.png" alt="Owl Image">
+					</div>
+				</a>
+              </div>       
+          </div>
+        </div>
+
+
+	</div>
+	
+	<div  class="content-section-c ">
+		<div class="container">
+			<div class="row">
+			<div class="col-md-6 col-md-offset-3 text-center white">
+				<h2>Real-Time Balloon Design</h2>
+				<p class="lead" style="margin-top:0">Test different material types to see how your balloon would do in space!</p>
+			 </div>
+			<div class="col-md-6 col-md-offset-3 text-center">
+				<div class="mockup-content">
+						<div class="morph-button wow pulse morph-button-inflow morph-button-inflow-1">
+							<button type="button "><span>Subscribe to our Newsletter</span></button>
+							<div class="morph-content">
+								<div>
+									<div class="content-style-form content-style-form-4 ">
+										<h2 class="morph-clone">Cliq me</h2>
+										<form>
+											<p><label>Your Email Address</label><input type="text"/></p>
+											<p><button>Make my balloon!</button></p>
+										</form>
+									</div>
+								</div>
+							</div>
+						</div>
+				</div>
+			</div>	
+			</div>>
+		</div>
+	</div>	
+	
+	<!-- Credits -->
+	<div id="team" class="content-section-a">
+		<div class="container">
+			<div class="row">
+			
+			<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>Our Team</h2>
+				<p class="lead" style="margin-top:0">A special thanks to Death.</p>
+			 </div>
+			 
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-desktop fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<p><br><b>Michael Becich</b> is a junior studying Bioengineering and Computer Science at Stanford University. While he is not encoding life, Mike enjoys running and music.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-picture-o fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<p><br><b>Anna Le</b> is a senior studying Bioengineering at Stanford University.</p> 
+					  </div>
+					</div>
+			  </div>
+		  </div>
+		  
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Theresa Sievert</b> is a junior studying Bioengineering at Stanford University.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Gordon Sun</b> is a recent graduate from Stanford University, continuing his Bioengineering studies as a phD student at Rice University.</p> 
+					  </div>
+					</div>
+			  </div>
+			  
+		  </div>
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Amy Weissenbach</b> is a senior studying English and Bioengineering at Stanford University.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Taylor Sihavong</b> is a junior studying Biology and Product Design Engineering at Stanford University.</p> 
+					  </div>
+					</div>
+			  </div>
+		  </div>
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Taylor Pullinger</b> is a junior studying Biology at Brown University.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Julia Gross</b> is a junior studying ??? at Brown University.</p> 
+					  </div>
+					</div>
+			  </div>
+			</div>
+					  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Eric Liu</b> is a sophomore studying ??? at Brown University.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Cynthia Hale-Phillips</b> is a senior studying ??? at Brown University..</p> 
+					  </div>
+					</div>
+			  </div>
+		  </div>
+			
+					  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Charles Gleason</b> is a senior studying ??? at Brown University.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Elias Robinson</b> is a junior studying ??? at Brown University.</p> 
+					  </div>
+					</div>
+			  </div>
+			  
+			  <div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>Our Advisors</h2>
+				<p class="lead" style="margin-top:0">The people who absorbed our gross monetary expenditures.</p>
+			 </div>
+			 
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-desktop fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<p><br><b>Dr. Lynn J. Rothschild</b>, an astrobiologist and synthetic biologist at the NASA Ames Research Center, has mentored five wonderful iGEM teams in her lab including Brown-Stanford 2011, Stanford-Brown 2012, 2013, 2015, 2016, and StanfordBrownSpelman 2014.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-picture-o fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<p><br><b>Dr. Gary Wessel</b> is a Professor of Biology at Brown University. He has been the faculty sponsor for the Brown University team since 2006 and teaches the synbio course at Brown "Bio 1210 Synthetic Biological Systems". His research focuses on anything germ line and reproduction and applies synthetic biological approaches to this research field.</p> 
+					  </div>
+					</div>
+			  </div>
+		  </div>
+		  
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Kara Rogers</b> is a ???</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Jim Head</b> is a ???</p> 
+					  </div>
+					</div>
+			  </div>
+			  
+		  </div>
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Dr. Kosuke Fujishima</b> is a research scientist at NASA Ames working as a Synthetic Astrobiologist, tackling Origins of Life questions using molecular biology as a tool kit.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Ryan Kent</b> was a member of the 2011 Brown/Stanford iGEM team and graduated from Stanford in 2012 with an M.S. in Biology. This is his third year as an iGEM mentor and as a member of Dr. Lynn Rothschild’s lab. When he’s not whipping the team into shape, he enjoys writing about himself in the third person and surfing.</p> 
+					  </div>
+					</div>
+			  </div>
+		  </div>
+		  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Griffin McCutcheon</b> is a mission support engineer at NASA Ames focusing on synthetic biology for satellite missions. He is a graduate of Johns Hopkins University with a degree in Chemical and Biomolecular Engineering.</p>
+						</div>
+				  </div>
+			  </div>
+			  <div class="col-sm-6 block wow bounceIn">
+					<div class="row">
+					  <div class="col-md-4 box-icon rotate"> 
+						<i class="fa fa-heart fa-4x "> </i> 
+					  </div>
+					  <div class="col-md-8 box-ct">
+						<br><p><b>Dr. Ivan Glaucio Paulino Lima</b> is a visiting scientist at Universities Space Research Association, working on research projects and flight experiments in support of synthetic biology and astrobiology.</p> 
+					  </div>
+					</div>
+			  </div>
+			</div>
+			
+					  <div class="row tworow">
+				<div class="col-sm-6  block wow bounceIn">
+					<div class="row">
+						<div class="col-md-4 box-icon rotate"> 
+							<i class="fa fa-magic fa-4x "> </i> 
+						</div>
+						<div class="col-md-8 box-ct">
+							<br><p><b>Jesica Urbina-Naverrete</b> is a PhD Candidate at UC Santa Cruz and is completing her dissertation research at NASA Ames Research Center. Her work involves applying synthetic biology approaches for biomining and biorecycling of materials from minerals and e-waste.</p>
+						</div>
+				  </div>
+			  </div>
+			</div>
+			  
+		  </div>
+		</div>
+	</div>
+	
+	<!-- Banner Download -->
+	<div id="downloadlink" class="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-md-offset-3 text-center wrap_title">
+				<h2>Download Free</h2>
+				<p class="lead" style="margin-top:0">Pay with a Tweet</p>
+				<p><a class="btn btn-embossed btn-primary view" role="button">Free Download</a></p> 
+			 </div>
+			</div>
+		</div>
+	</div>
+	
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <h3 class="footer-title">Follow Me!</h3>
+            <p>Vuoi ricevere news su altri template?<br/>
+              Visita Andrea Galanti.it e vedrai tutte le news riguardanti nuovi Theme!<br/>
+              Go to: <a  href="http://andreagalanti.it" target="_blank">andreagalanti.it</a>
+            </p>
+			
+			<!-- LICENSE -->
+			<a rel="cc:attributionURL" href="http://www.andreagalanti.it/flatfy"
+		   property="dc:title">Flatfy Theme </a> by
+		   <a rel="dc:creator" href="http://www.andreagalanti.it"
+		   property="cc:attributionName">Andrea Galanti</a>
+		   is licensed to the public under 
+		   <BR>the <a rel="license"
+		   href="http://creativecommons.org/licenses/by-nc/3.0/it/deed.it">Creative
+		   Commons Attribution 3.0 License - NOT COMMERCIAL</a>.
+		   
+	   
+          </div> <!-- /col-xs-7 -->
+
+          <div class="col-md-5">
+            <div class="footer-banner">
+              <h3 class="footer-title">Flatfy Theme</h3>
+              <ul>
+                <li>12 Column Grid Bootstrap</li>
+                <li>Form Contact</li>
+                <li>Drag Gallery</li>
+                <li>Full Responsive</li>
+                <li>Lorem Ipsum</li>
+              </ul>
+              Go to: <a href="http://andreagalanti.it/flatfy" target="_blank">andreagalanti.it/flatfy</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+	<script src="js/owl.carousel.js"></script>
+	<script src="js/script.js"></script>
+	<!-- StikyMenu -->
+	<script src="js/stickUp.min.js"></script>
+	<script type="text/javascript">
+	  jQuery(function($) {
+		$(document).ready( function() {
+		  $('.navbar-default').stickUp();
+		  
+		});
+	  });
+	
+	</script>
+	<!-- Smoothscroll -->
+	<script type="text/javascript" src="js/jquery.corner.js"></script> 
+	<script src="js/wow.min.js"></script>
+	<script>
+	 new WOW().init();
+	</script>
+	<script src="js/classie.js"></script>
+	<script src="js/uiMorphingButton_inflow.js"></script>
+	<!-- Magnific Popup core JS file -->
+	<script src="js/jquery.magnific-popup.js"></script> 
+</body>
+
+</html>
